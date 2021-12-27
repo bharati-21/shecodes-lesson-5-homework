@@ -1,0 +1,18 @@
+* {
+  font-family: sans-serif;
+}
+
+.search-form .row {
+  max-width: 100% !important;
+  margin: auto !important;
+  display: flex !important;
+  flex-wrap: wrap !important;
+}
+
+#app {
+  border: 1px solid #dadde1;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 100%;
+}
